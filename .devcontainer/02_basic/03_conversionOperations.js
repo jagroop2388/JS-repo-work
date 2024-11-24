@@ -35,6 +35,7 @@ let name3 = "cheema"
 let x =5
 //const y = x++
 const y = ++x
-console.log (x, y);
+//console.log (x, y);
+
 
 
